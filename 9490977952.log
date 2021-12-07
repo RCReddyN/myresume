@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.22)  17 NOV 2021 00:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.22)  7 DEC 2021 15:32
 entering extended mode
 **./9490977952.tex
 (9490977952.tex
@@ -297,18 +297,18 @@ Package pdftex.def Info: isro.png  used on input line 30.
  [1
 
 {C:/Users/The Beast/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./isro.png>
-] (9490977952.aux)
+] [2] (9490977952.aux)
 Package rerunfilecheck Info: File `9490977952.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8172 strings out of 480236
- 148046 string characters out of 2890365
- 420961 words of memory out of 3000000
+ 8174 strings out of 480236
+ 148068 string characters out of 2890365
+ 422961 words of memory out of 3000000
  24624 multiletter control sequences out of 15000+200000
- 538356 words of font info for 40 fonts, out of 3000000 for 9000
+ 538664 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,67p,305b,315s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,7n,67p,305b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\The Beast\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm0900.pk> <C:\Users\The Beast\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
 ec/dpi600\tcrm1000.pk>{C:/Users/The Beast/AppData/Roaming/MiKTeX/fonts/enc/dvip
@@ -319,13 +319,14 @@ iKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}<C:/Users/The Beast/AppData/Roa
 ming/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/
 Users/The Beast/AppData/Roaming/MiKTeX/fonts/type1/public/fontawesome5/FontAwes
 ome5Free-Solid.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
-ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 9490977952.pdf (1 page, 150605 bytes).
+10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
+rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmtt10.pfb>
+Output written on 9490977952.pdf (2 pages, 161315 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
+ 82 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
