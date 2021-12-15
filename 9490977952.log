@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.22)  14 DEC 2021 13:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.22)  15 DEC 2021 19:52
 entering extended mode
 **./9490977952.tex
 (9490977952.tex
@@ -197,45 +197,134 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip49
-) (9490977952.aux)
+) ("C:\Program Files\MiKTeX\tex/latex/tools\multicol.sty"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count194
+\mult@box=\box48
+\multicol@leftmargin=\dimen145
+\c@unbalance=\count195
+\c@collectmore=\count196
+\doublecol@number=\count197
+\multicoltolerance=\count198
+\multicolpretolerance=\count199
+\full@width=\dimen146
+\page@free=\dimen147
+\premulticols=\dimen148
+\postmulticols=\dimen149
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box49
+\last@line=\box50
+\maxbalancingoverflow=\dimen150
+\mult@rightbox=\box51
+\mult@grightbox=\box52
+\mult@gfirstbox=\box53
+\mult@firstbox=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\c@minrows=\count266
+\c@columnbadness=\count267
+\c@finalcolumnbadness=\count268
+\last@try=\dimen151
+\multicolovershoot=\dimen152
+\multicolundershoot=\dimen153
+\mult@nat@firstbox=\box92
+\colbreak@box=\box93
+\mc@col@check@num=\count269
+)
+("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks16
+
+("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg"))
+(9490977952.aux)
 \openout1 = `9490977952.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-
-("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
-\scratchdimen=\dimen145
-\scratchbox=\box48
-\nofMPsegments=\count195
-\nofMParguments=\count196
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count197
-\MPscratchDim=\dimen146
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
-\everyMPtoPDFconversion=\toks17
+\scratchcounter=\count273
+\scratchdimen=\dimen162
+\scratchbox=\box94
+\nofMPsegments=\count274
+\nofMParguments=\count275
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count276
+\MPscratchDim=\dimen163
+\MPnumerator=\count277
+\makeMPintoPDFobject=\count278
+\everyMPtoPDFconversion=\toks18
 ) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
-Package hyperref Info: Link coloring OFF on input line 6.
+Package hyperref Info: Link coloring OFF on input line 16.
 
 ("C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -247,68 +336,98 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 string.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count266
+\c@section@level=\count279
 )
-LaTeX Info: Redefining \ref on input line 6.
-LaTeX Info: Redefining \pageref on input line 6.
-LaTeX Info: Redefining \nameref on input line 6.
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
  (9490977952.out) (9490977952.out)
 \@outlinefile=\write3
 \openout3 = `9490977952.out'.
 
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(113.81102pt, 731.23582pt, 0.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=731.23582pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=4.54103pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 10.
+(Font)              <5> on input line 20.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 11.
+nput line 22.
 
 ("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesome
 free2.fd")
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 11.
+nput line 22.
 
 ("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesome
 free1.fd")
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 12.
+ input line 25.
 
 ("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesome
 brands0.fd")
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 12.
-
-Overfull \hbox (13.84398pt too wide) in paragraph at lines 10--14
-[] 
- []
-
+n input line 25.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
-nput line 17.
+nput line 31.
 
 ("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesome
 free3.fd")
 <isro.png, id=7, 1204.5pt x 1164.35pt>
 File: isro.png Graphic file (type png)
 <use isro.png>
-Package pdftex.def Info: isro.png  used on input line 45.
+Package pdftex.def Info: isro.png  used on input line 55.
 (pdftex.def)             Requested size: 14.05255pt x 13.57362pt.
  [1
 
 {C:/Users/The Beast/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./isro.png>
-] [2] (9490977952.aux)
+] (9490977952.aux)
 Package rerunfilecheck Info: File `9490977952.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8175 strings out of 480236
- 148078 string characters out of 2890365
- 422961 words of memory out of 3000000
- 24624 multiletter control sequences out of 15000+200000
- 538664 words of font info for 41 fonts, out of 3000000 for 9000
+ 8757 strings out of 480236
+ 156901 string characters out of 2890365
+ 451873 words of memory out of 3000000
+ 25197 multiletter control sequences out of 15000+200000
+ 538496 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,67p,305b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,12n,67p,305b,332s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\The Beast\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm0900.pk> <C:\Users\The Beast\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
 ec/dpi600\tcrm1000.pk>{C:/Users/The Beast/AppData/Roaming/MiKTeX/fonts/enc/dvip
@@ -322,11 +441,10 @@ ome5Free-Solid.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx
 10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
 rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmtt10.pfb>
-Output written on 9490977952.pdf (2 pages, 163207 bytes).
+ype1/public/amsfonts/cm/cmr9.pfb>
+Output written on 9490977952.pdf (1 page, 150782 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
