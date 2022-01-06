@@ -1,31 +1,29 @@
 \documentclass{article}
 
+\usepackage[dvipsnames]{xcolor}
+
+\usepackage{tcolorbox}
 \usepackage{fontawesome5}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{multicol}
 \usepackage{geometry}
- \geometry{
+
+\pagestyle{myheadings}
+\markright{\today}
+
+\geometry{
  a4paper,
  total={170mm,257mm},
  left=20mm,
  top=40mm,
  }
  
- 
 \begin{document}
 
 \section*{\Huge Ravi Chandra Reddy N}
 
-\begin{tabular}{lcr}
-\begin{tabular}{lc}
-\faIcon{map-marker-alt} {Hyderabad, Telangana}  & \faIcon{globe} \href{https://rcreddyn.github.io}{https://rcreddyn.github.io}\\
-\end{tabular}
-
-\begin{tabular}{cr}
-\faIcon{phone} +919490977952 & \faIcon{envelope} rcreddy1997@gmail.com   \\
-\end{tabular}
-\end{tabular}
+\faIcon{map-marker-alt} {Hyderabad, Telangana}  \faIcon{linkedin} \href{https://linkedin.com/in/rcreddyn}{rcreddyn}  \faIcon{globe} \href{https://rcreddyn.github.io}{rcreddyn.github.io}  \faIcon{phone} +919490977952  \faIcon{envelope}  \href{mailto:rcreddy1997@gmail.com}{rcreddy1997@gmail.com}
 
 \begin{multicols}{2}
 \section*{Education}
@@ -37,14 +35,12 @@
 \end{itemize}
 
 \section*{Skills}
-\begin{itemize}
-    \item Java, C, and Basic C++
-    \item  Python, and Shell Scripting
-    \item Algorithms, and Data Structures
-    \item PostgreSQL
-    \item HTML, CSS
-    \item Git, and \LaTeX
-\end{itemize}
+\begin{flushleft}
+Java, Python, C/C++,
+PostgreSQL, MongoDB, HTML/CSS,
+Git, \LaTeX, Software Development, Algorithms, Data Structures, Problem Solving, Relational and Non relational databases, Object Oriented Programming, Operating Systems, Computer Networks, Linux, and Shell Scripting.
+\end{flushleft}
+
 
 \section*{Coding profile(s)}
 \begin{itemize}
@@ -55,39 +51,42 @@
 \section*{Experience}
 \includegraphics[width=14px]{isro.png} National Remote Sensing Center (2018)
 \begin{itemize}
-\item \small Project Student, Bhuvan Geoportal and Web GIS Services.
-\item \small Designed and developed standard ways to trans-receive data from sensors and actuators to  Bhuvan IoT Cloud.
+\item \small Internship as a Project Student in Bhuvan Geoportal and Web GIS Services.
+\item \small Design and development of standard ways to trans-receive data to Bhuvan IoT Cloud.
+\item \small Sorted sensors and actuators into categories, to generalize a design solution.
+\item \small Delivered Python scripts and equivalent C++ code for interfacing devices with development boards.
+\item \small Formatted timed sensory data as JSON Objects to send to the IoT Cloud. 
 \end{itemize}
 
 \section*{Projects}
 \begin{itemize}
-\item \href{https://github.com/rcreddyn/nomsh}{Nomsh}, a shell written in C.
+\item \href{https://github.com/rcreddyn/nomsh}{Nomsh}, a shell implemented in C.
 \begin{itemize}
 \item Supports execution of builtin, and executable commands.
 \item Supports output redirection.
 \item Wrote a Makefile for creating an executable.
 \end{itemize}
-\item  \href{https://github.com/rcreddyn/nomsh}{Amrika}, a compiler written in C++ for a cooked up language.
+\item  \href{https://github.com/rcreddyn/nomsh}{Amrika}, a compiler engineered for a cooked up language.
 \begin{itemize}
-\item Wrote grammar for a language, and implemented parser, lexer, and emiter from scratch.
+\item Crafted grammar for a language, and implemented parser, lexer, and emiter from scratch.
 \item Implemented print and assignment statements and analogues to if conditional and while iteration.
 \item Wrote a makefile to generate the compiler, and a bash script to run the compiled code.
 \end{itemize}
-\item \href{https://github.com/rcreddyn/nomsh}{Lavangam}, a trie-based command line spell checker written in Python.
+\item \href{https://github.com/rcreddyn/nomsh}{Lavangam}, a trie-based command line spell checker.
 \begin{itemize}
 \item Implemented a trie to store/search for words.
 \item Implemented Levenshtein's algorithm to calculate distance between two words.
 \item Utilized wordlist from NLTK corpus.
 \end{itemize}
-\item \href{https://github.com/rcreddyn/nomsh}{Holyperil}, a command line planetory monitering application written in Python. 
+\item \href{https://github.com/rcreddyn/nomsh}{Holyperil}, a command line planetory monitering application. 
 \begin{itemize}
-\item Code written in Python to notify of potentially hazardous/ dangerous asteroids approaching Earth.
+\item A Python script to notify of potentially hazardous/ dangerous asteroids approaching Earth.
 \item Used an offset of six days, to prepare just in case of an approaching hypothetical danger.
 \item Utilized NASA's Asteroids - NeoWs API for the search.
 \end{itemize}
 \item \href{https://github.com/rcreddyn/nomsh}{Freddie}, a text-only browser.
 \begin{itemize}
-\item Code written in Python to extract text from webpages, bypassing HTML tags, CSS, and all kinds of media.
+\item A Python script to extract text from webpages, bypassing HTML tags, CSS, and all kinds of media.
 \end{itemize}
 \end{itemize} 
 \end{multicols}
