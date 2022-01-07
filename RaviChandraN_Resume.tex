@@ -1,28 +1,21 @@
 \documentclass{article}
 
-\usepackage[dvipsnames]{xcolor}
-
-\usepackage{tcolorbox}
 \usepackage{fontawesome5}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \usepackage{multicol}
 \usepackage{geometry}
 
-\pagestyle{myheadings}
-\markright{\today}
-
 \geometry{
- a4paper,
- total={170mm,257mm},
- left=20mm,
- top=40mm,
- }
- 
+a4paper,
+total={170mm,257mm},
+left=20mm,
+top=20mm,
+}
+
 \begin{document}
 
 \section*{\Huge Ravi Chandra Reddy N}
-A passionate and hardworking individual with a bachelors degree in Electrical and Electronics Engineering and strong technical knowledge in computer sciences, who is currently seeking opportunities in software development.\\ \\ 
 \begin{tabular}{@{}lr}
 \begin{tabular}{@{}lcr}
 \faIcon{map-marker-alt} {Hyderabad, Telangana} & \faIcon{linkedin} \href{https://linkedin.com/in/rcreddyn}{rcreddyn} & \faIcon{globe} \href{https://rcreddyn.github.io}{rcreddyn.github.io}\\
@@ -32,20 +25,19 @@ A passionate and hardworking individual with a bachelors degree in Electrical an
 \end{tabular}
 \end{tabular}
 
-\begin{multicols}{2}
 \section*{Education}
-\faIcon{university} BV Raju Institute of Technology (2014 - 2018)
+\faIcon{university} \textbf{BV Raju Institute of Technology (2014 - 2018)}
 \begin{itemize}
 \item \small Bachelor of Technology in Electrical and Electronics Engineering with 76\%.
 \item \small Organizer for Technical, Cultural events and Industrial visits.
-\item \small Supplementary education in Embedded and Assistive Technology  at Assistive Technology Lab.
+\item \small Supplementary education in embedded and assistive technology at Assistive Technology Lab.
 \end{itemize}
 
 \section*{Skills}
-\begin{flushleft}
-Java, Python, C/C++, sqlite3, PostgreSQL, MongoDB, HTML/CSS, Git, \LaTeX, Linux, Shell scripting, Software Development, Algorithms, Data Structures, Problem Solving, Relational databases, Non relational databases, Object Oriented Programming, Operating Systems, Computer Networks.
-\end{flushleft}
-
+\small\textbf{Programming/Scripting Languages:} Java, Python, C/ C++, Bash \\
+\small\textbf{Databases:} sqlite3, PostgreSQL, MongoDB \\
+\small\textbf{Web development:} HTML/ CSS \\
+\small\textbf{Misc:} Git, \LaTeX, Unix/ Linux, Software development, Algorithms, Data structures, Relational database, Non relational database, Object-oriented design, Mathematics, Operating systems, Computer networks
 
 \section*{Coding profile(s)}
 \begin{itemize}
@@ -53,45 +45,36 @@ Java, Python, C/C++, sqlite3, PostgreSQL, MongoDB, HTML/CSS, Git, \LaTeX, Linux,
 \end{itemize}
 
 \section*{Experience}
-\includegraphics[width=14px]{isro.png} National Remote Sensing Center (2018)
+\includegraphics[width=14px]{isro.png} \textbf{National Remote Sensing Center (2018)}
 \begin{itemize}
-\item \small Internship as a Project Student in Bhuvan Geoportal and Web GIS Services.
-\item \small Design and development of standard ways to communicate sensors and actuators with Bhuvan IoT Cloud.
-\item \small Sorted sensors and actuators into categories, to generalize a design solution.
-\item \small Delivered Python scripts and equivalent C++ code for interfacing devices with development boards.
-\item \small Formatted timed sensory data as JSON Objects to send to the IoT Cloud. 
+\item \small Successfully delivered quality code during the internship as a Project Student in Bhuvan Geoportal and Web GIS Services.
+\item \small Designed and developed standardized ways to communicate sensors and actuators with Bhuvan IoT Cloud.
+\item \small Identified and sorted around 100 sensors and actuators into categories, to generalize a design solution.
+\item \small Delivered Python scripts and equivalent C++ code to efficiently interface devices with development boards.
+\item \small Formatted timed sensory data as JSON Objects to send to the IoT Cloud.
 \end{itemize}
 
 \section*{Projects}
+\href{https://github.com/rcreddyn/nomsh}{\textbf{Nomsh}}, a shell programmed in C.
 \begin{itemize}
-\item \href{https://github.com/rcreddyn/nomsh}{Nomsh}, a shell implemented in C.
-\begin{itemize}
-\item Supports execution of builtin, and executable commands.
-\item Supports output redirection.
-\item Wrote a Makefile for creating an executable.
+\item Effectively implemented support for execution of built-in, executable commands, and output redirection.
+\item Written a Makefile for creating an executable on the Linux platform.
 \end{itemize}
-\item  \href{https://github.com/rcreddyn/nomsh}{Amrika}, a compiler engineered for a cooked up language.
+\href{https://github.com/rcreddyn/nomsh}{\textbf{Amrika}}, a compiler engineered for a cooked-up language.
 \begin{itemize}
-\item Crafted grammar for a language, and implemented parser, lexer, and emiter from scratch.
-\item Implemented print and assignment statements and analogues to if conditional and while iteration.
-\item Wrote a makefile to generate the compiler, and a bash script to run the compiled code.
+\item Crafted grammar for a language and implemented parser, lexer, and emitter from scratch.
+\item Written a makefile to generate the compiler, and a bash script to run the compiled code.
 \end{itemize}
-\item \href{https://github.com/rcreddyn/nomsh}{Lavangam}, a trie-based command line spell checker tool.
+\href{https://github.com/rcreddyn/nomsh}{\textbf{Lavangam}}, a trie-based command-line spell checker tool.
 \begin{itemize}
-\item Implemented a trie to store/search for words.
-\item Implemented Levenshtein's algorithm to calculate distance between two words.
+\item Engineered a utility that scans for a keyword and suggests a list if the keyword is misspelt.
+\item Successfully implemented a trie to store/search for words.
+\item Utilized Levenshtein's algorithm to calculate the distance between two words, which significantly improved performance.
 \item Utilized wordlist from NLTK corpus.
 \end{itemize}
-\item \href{https://github.com/rcreddyn/nomsh}{Holyperil}, a command line planetory monitering application. 
+\href{https://github.com/rcreddyn/nomsh}{\textbf{Holyperil}}, a command-line planetary monitoring application.
 \begin{itemize}
-\item A Python script to notify of potentially hazardous/ dangerous asteroids approaching Earth.
-\item Used an offset of six days, to prepare just in case of an approaching hypothetical danger.
-\item Utilized NASA's Asteroids - NeoWs API for the search.
+\item A Python script utilizing NASA's Asteroids - NeoWs API, to notify of potentially hazardous/ dangerous asteroids approaching Earth.
+\item Used an offset of six days, to prepare just in case of approaching hypothetical danger.
 \end{itemize}
-\item \href{https://github.com/rcreddyn/nomsh}{Freddie}, a text-only browser.
-\begin{itemize}
-\item A Python script to extract text from webpages, bypassing HTML tags, CSS, and all kinds of media.
-\end{itemize}
-\end{itemize} 
-\end{multicols}
 \end{document}
