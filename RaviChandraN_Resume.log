@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.22)  6 JAN 2022 23:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.22)  7 JAN 2022 21:43
 entering extended mode
 **./RaviChandraN_Resume.tex
 (RaviChandraN_Resume.tex
@@ -635,45 +635,49 @@ LaTeX Info: Redefining \nameref on input line 22.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 26.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 26.
+nput line 28.
 
 ("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesome
 free2.fd")
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 26.
+ input line 28.
 
 ("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesome
 brands0.fd")
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 26.
+n input line 28.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 26.
+nput line 28.
 
 ("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesome
 free1.fd")
+Underfull \hbox (badness 10000) in paragraph at lines 25--34
+
+ []
+
+
+Overfull \hbox (27.81754pt too wide) in paragraph at lines 25--34
+[] 
+ []
+
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
-nput line 30.
+nput line 37.
 
 ("C:\Users\The Beast\AppData\Roaming\MiKTeX\tex/latex/fontawesome5\ufontawesome
 free3.fd")
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 41.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 41.
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
-[][]$\OT1/cmtt/m/n/10 https : / / auth . geeksforgeeks . org / user /
- []
-
-<isro.png, id=11, 1204.5pt x 1164.35pt>
+<isro.png, id=10, 1204.5pt x 1164.35pt>
 File: isro.png Graphic file (type png)
 <use isro.png>
-Package pdftex.def Info: isro.png  used on input line 52.
+Package pdftex.def Info: isro.png  used on input line 56.
 (pdftex.def)             Requested size: 14.05255pt x 13.57362pt.
-[1{C:/Users/The Beast/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+ [1{C:/Users/The Beast/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
  <./isro.png>] (RaviChandraN_Resume.aux)
 Package rerunfilecheck Info: File `RaviChandraN_Resume.out' has not changed.
@@ -682,11 +686,11 @@ Package rerunfilecheck Info: File `RaviChandraN_Resume.out' has not changed.
 Here is how much of TeX's memory you used:
  18697 strings out of 480236
  368294 string characters out of 2890365
- 654514 words of memory out of 3000000
+ 651514 words of memory out of 3000000
  34937 multiletter control sequences out of 15000+200000
  539017 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 95i,5n,99p,460b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 95i,12n,99p,460b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\The Beast\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm0900.pk> <C:\Users\The Beast\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
 ec/dpi600\tcrm1000.pk>{C:/Users/The Beast/AppData/Roaming/MiKTeX/fonts/enc/dvip
@@ -703,9 +707,9 @@ MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 tt10.pfb>
-Output written on RaviChandraN_Resume.pdf (1 page, 195148 bytes).
+Output written on RaviChandraN_Resume.pdf (1 page, 194673 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
